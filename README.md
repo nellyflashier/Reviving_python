@@ -7,3 +7,4 @@ UCL heart data : https://www.kaggle.com/ronitf/heart-disease-uci/download
 Drug review analysis data : https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018/download
 Multiple Regression Model data : https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009/download
 Simple Regression Model data : https://www.kaggle.com/smid80/weatherww2/download
+Random Forest Classifier data : https://www.kaggle.com/uciml/pima-indians-diabetes-database/download
